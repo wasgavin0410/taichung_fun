@@ -1,0 +1,22 @@
+body, html {
+    font-size : 15px;
+    height: 100%;
+    line-height: 1.8;
+}
+
+body{
+    margin-top: 60px;
+    min-height: 800px;
+}
+
+.w3-bar .w3-button {
+    padding: 16px;
+}
+
+@media  (max-width: 1140px){
+body {font-size: 15px;}
+}
+
+@media  (max-width: 600px){
+body {font-size: 13px;}
+}
