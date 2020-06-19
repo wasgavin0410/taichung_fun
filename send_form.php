@@ -1,6 +1,6 @@
 <?php
 
-    include "connect.php";
+    include "connect_taichung_chat.php";
     $user_name = $_POST['user'];
     $visit_place = $_POST['place'];
     $comment  = $_POST['comment'];
